@@ -36,7 +36,7 @@ const Hero = () => {
             max-width: ${rhythm(15)};
           `}
         >
-          Your blog says the things you want to say.
+          Bienvenido a mi Blog personal sobre Frontend.
         </h1>
       </Container>
       <div
@@ -93,13 +93,13 @@ export default function Index({ data: { site, allMdx } }) {
                 to={post.frontmatter.slug}
                 aria-label={`View ${post.frontmatter.title}`}
               >
-                Read Article →
+                Leer Artículo →
               </Link>
             </Description>
           </div>
         ))}
         <Link to="/blog" aria-label="Visit blog page">
-          View all articles
+          Ver todos los artículos
         </Link>
         <hr />
       </Container>
