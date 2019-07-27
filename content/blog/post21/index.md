@@ -755,4 +755,4 @@ import InputForm from '../../components/InputForm';
 
 ### Conclusión
 
-useContext y CONTEXT API pueden ser una opción para no tener que vernos forzados en usar Redux, see recomienda sobre todo cuando tenemos cambios de Themes en nuestros proyectos, tambien para actualizar la data de un usuario que inicia sesión en la aplicación. Espero les haya servido!
+useContext y CONTEXT API pueden ser una opción para no tener que vernos forzados en usar Redux, se recomienda sobre todo cuando tenemos cambios de Themes en nuestros proyectos, tambien para actualizar la data de un usuario que inicia sesión en la aplicación. Espero les haya servido!
