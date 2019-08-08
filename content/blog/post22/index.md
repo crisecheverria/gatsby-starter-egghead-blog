@@ -1,5 +1,5 @@
 ---
-slug: react-redux-tutorial
+slug: react-redux-tutorial-parte-1
 date: 2019-08-08
 title: 'React Redux - Parte 1: Redux'
 description: 'En este Post quiero tocar el tema de Redux, seguido de eso lo combinaremos con React. Haremos una sencilla aplicación para llevar control de gastos, ya que no quería usar el típico Todo App que todo el mundo usa para lecciones de React Redux ;)'
