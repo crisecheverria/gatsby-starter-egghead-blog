@@ -34,6 +34,10 @@ Además en este proyecto NO USAREMOS CLASS COMPONENTS, solamente usaremos Functi
 
 ![Proyecto Final](user-admin.png)
 
+### Video de Youtube
+
+Este tutorial también está grabado y lo puedes encontrar en mi canal de [Youtube](https://www.youtube.com/watch?v=9p7YEaA4_lw&list=PLAN6wHA0cA_dPCuWpwb7riZt3Ds2iylsr)
+
 ### Table Layout: Bulma CSS
 
 Creamos el siguiente componente dentro de **src/components/Table/index.js**
