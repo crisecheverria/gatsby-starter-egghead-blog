@@ -10,6 +10,10 @@ banner: './banner.jpg'
 
 En este Post quiero tocar el tema de Redux, seguido de eso lo combinaremos con React. Haremos una sencilla aplicación para llevar control de gastos, ya que no quería usar el típico Todo App que todo el mundo usa para lecciones de React Redux ;)
 
+### Video en Youtube
+
+Puedes encontrar esta publicación en mi canal de [Youtube](https://www.youtube.com/watch?v=-mq1_zpT5lE&list=PLAN6wHA0cA_fTmMAObPAH5SSKZ61zBa04).
+
 ### create-react-app
 
 Desde tu terminal escribe el siguiente comando (debes tener instalado [NodeJs](https://nodejs.org)). Usaremos **npx** para descargar la versión más reciente de create-react-app sin tener que instalarlo primero.
