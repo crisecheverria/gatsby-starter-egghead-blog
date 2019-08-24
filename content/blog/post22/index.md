@@ -14,6 +14,10 @@ En este Post quiero tocar el tema de Redux, seguido de eso lo combinaremos con R
 
 Puedes encontrar esta publicación en mi canal de [Youtube](https://www.youtube.com/watch?v=-mq1_zpT5lE&list=PLAN6wHA0cA_fTmMAObPAH5SSKZ61zBa04).
 
+### Serie React Redux
+
+Ésta publicación es la primera parte de una serie sobre React Redux. Puedes encontrar la [Parte2: React](https://cristianecheverria.com/react-redux-tutorial-parte-2)
+
 ### create-react-app
 
 Desde tu terminal escribe el siguiente comando (debes tener instalado [NodeJs](https://nodejs.org)). Usaremos **npx** para descargar la versión más reciente de create-react-app sin tener que instalarlo primero.
@@ -294,3 +298,7 @@ Redux puede ser descrito en tres principios fundamentales:
 - Los cambios se realizan con funciones puras: Para especificar como el árbol de estado es transformado por las acciones, se utilizan reducers puros.
 
 Hasta la próxima!
+
+### Recuerda
+
+Ésta publicación es la primera parte de una serie sobre React Redux. Puedes encontrar la [Parte2: React](https://cristianecheverria.com/react-redux-tutorial-parte-2)
