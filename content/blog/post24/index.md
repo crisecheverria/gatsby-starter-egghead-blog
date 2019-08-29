@@ -88,4 +88,4 @@ Suecia no es para todos; el clima, la independencia, lo poco sociable, las pocas
 
 El idioma puede ser una gran barrera también, a pesar de que casi todos hablan perfecto inglés. Si hablas sueco puedes trabajar de lo que te plazca, el problema es ese, toca aprenderlo.
 
-!Hasta la próxima!
+Hasta la próxima!
