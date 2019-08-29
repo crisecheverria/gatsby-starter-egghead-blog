@@ -40,7 +40,7 @@ Desde meses de nacidos, los Suecos suelen ser llevados a los Daycares/Preescolar
 
 Los lazos de amistad se forjan desde que son bebes con los compañeros de Daycare y esos son los lazos que duran en su mayoría para toda la vidad. Es por eso que se piensa que los Suecos no son muy sociables, ya que sus amistades son aquellas que formaron siendo bebés, en la etapa universitaria es generalmente la última oportunidad que tienen de hacer amistades duraderas.
 
-Es por eso también que los Suecos no suelen ser tan apegados/allegados con los miembros de su familia incluyendo sus padres/primos/tíos/abuelos ya que desdee bebé se acostumbran a convivir con extraños.
+Es por eso también que los Suecos no suelen ser tan apegados/allegados con los miembros de su familia incluyendo sus padres/primos/tíos/abuelos ya que desde que son bebés se acostumbran a convivir con extraños.
 
 Ahondando aún más en el tema de la independencia, ellos están acostumbrados a tener voluntad o decisión propia y a ser respetada por parte de sus padres, ya que desde bebes aprenden a ser independientes. Es por eso común ver que se reunen con sus amigos y se van de viaje por toda Europa sin problema alguno, apoyados también por la excelente economía que poseen.
 
