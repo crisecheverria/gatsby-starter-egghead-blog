@@ -14,7 +14,7 @@ Una mirada a la cultura Escandinava vista desde los ojos de un extranjero proven
 
 Suecia cuenta con uno de los mejores sistemas de Seguridad Social. Algunos de los beneficios son:
 
-**- Educación gratuita:** Desde Daycare, Preescolar hasta la Universidad es gratis. La que más me llama la atención es sistema escolar, los niños pueden estar hasta 8 horas o incluso más en la escuela mientras los padres trabajan, es obligatorio que los padres o trabajen o estudien, dependiendo de eso el nino tiene acceso a cierta cantidad de horas en la escuela donde reciben desayuno, almuerzo, snacks y un ambiente bastante educativo.
+**- Educación gratuita:** Desde Daycare, Preescolar hasta la Universidad es gratis. La que más me llama la atención es sistema escolar, los niños pueden estar hasta 8 horas o incluso más en la escuela mientras los padres trabajan, es obligatorio que los padres o trabajen o estudien, dependiendo de eso el niño tiene acceso a cierta cantidad de horas en la escuela donde reciben desayuno, almuerzo, snacks y un ambiente bastante educativo.
 
 **- Maternidad/Paternidad**: Los padres pueden darse de baja del trabajo al tener un hijo(a), comparten los días entre los padres, que puede llegar hasta aproximadamente 200 días para cada padre. Durante el tiempo de maternidad/paternidad se recibe el 80% del salario mensual por parte de la empresa. También puedes quedarte en casa por asuntos de enfermedad.
 
@@ -22,7 +22,7 @@ Suecia cuenta con uno de los mejores sistemas de Seguridad Social. Algunos de lo
 
 > Mis compañeros del trabajo me comentan que nunca han conocido un caso de despido en toda su vida.
 
-Por ley todo empleado recibe 25 días al ano de vacaciones pagadas.
+Por ley todo empleado recibe 25 días al año de vacaciones pagadas.
 
 > Si combinas por ejemplo retiro por maternidad/paternidad + vacaciones + enfermedad, bien puedes estar 1 año entero sin trabajar y sigues manteniendo tu empleo.
 
