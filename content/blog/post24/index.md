@@ -38,13 +38,13 @@ Desde meses de nacidos, los Suecos suelen ser llevados a los Daycares/Preescolar
 
 > Es bastante común ver preadolescentes juntarse para ir a bañar a algún lago, salir al centro comercial o a algún restaurante sin la compañía de algún adulto.
 
-Los lazos de amistad se forjan desde que son bebes con los compañeros de Daycare y esos son los lazos que duran en su mayoría para toda la vidad. Es por eso que se piensa que los Suecos no son muy sociables, ya que sus amistades son aquellas que formaron siendo bebés, en la etapa universitaria es generalmente la última oportunidad que tienen de hacer amistades duraderas.
+Los lazos de amistad se forjan desde que son bebes con los compañeros de Daycare y esos son los lazos que duran en su mayoría para toda la vida. Es por eso que se piensa que los Suecos no son muy sociables, ya que sus amistades son aquellas que formaron siendo bebés, en la etapa universitaria es generalmente la última oportunidad que tienen de hacer amistades duraderas.
 
 Es por eso también que los Suecos no suelen ser tan apegados/allegados con los miembros de su familia incluyendo sus padres/primos/tíos/abuelos ya que desde que son bebés se acostumbran a convivir con extraños.
 
 Ahondando aún más en el tema de la independencia, ellos están acostumbrados a tener voluntad o decisión propia y a ser respetada por parte de sus padres, ya que desde bebes aprenden a ser independientes. Es por eso común ver que se reunen con sus amigos y se van de viaje por toda Europa sin problema alguno, apoyados también por la excelente economía que poseen.
 
-Otro de los beneficios de convivir con otros desde temprana edad es el compromiso de apoyarse mutuamente en el **ambiente laboral**. A pesar de que poseen un excelente sistema de seguridad laboral y que gozan de bastantes días para pasar en caso sin trabajar cualquiera diría que son unos haraganes y que no trabajan, puede ser fácil juzgarlos de esas manera, pero es lo contrario en la mayoría de casos (con algunas excepciones).
+Otro de los beneficios de convivir con otros desde temprana edad es el compromiso de apoyarse mutuamente en el **ambiente laboral**. A pesar de que poseen un excelente sistema de seguridad laboral y que gozan de bastantes días para pasar sin trabajar, cualquiera diría que son unos haraganes y que no trabajan, puede ser fácil juzgarlos de esas manera, pero es lo contrario en la mayoría de casos (con algunas excepciones).
 
 > Los suecos son de las personas más responsables que he conocido, cuando se trata de trabajar; trabajan.
 
