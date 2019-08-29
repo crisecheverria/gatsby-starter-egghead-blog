@@ -60,7 +60,7 @@ Ahora que mi hijo está estudiando, cúanto ahorro significa para nosotros, más
 
 IKEA hace que comprar cosas para el hogar sea bastante económico.
 
-También es econónico los planes de telefonía, internet y sobre todo energía eléctrica. En cuanto a la energía eléctrica se tienen recibos mensuales de 300 - 600 coronas, una nada!.
+También es económico los planes de telefonía, internet y sobre todo energía eléctrica. En cuanto a la energía eléctrica se tienen recibos mensuales de 300 - 600 coronas, una nada!.
 
 ### Curiosidades suecas.
 
