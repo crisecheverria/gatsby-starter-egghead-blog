@@ -12,7 +12,7 @@ Una mirada a la cultura Escandinava vista desde los ojos de un extranjero proven
 
 ### Seguridad Social
 
-Suecia cuenta con una de las mejor Seguridad Social. Algunos de los beneficios son:
+Suecia cuenta con uno de los mejores sistemas de Seguridad Social. Algunos de los beneficios son:
 
 **- Educación gratuita:** Desde Daycare, Preescolar hasta la Universidad es gratis. La que más me llama la atención es sistema escolar, los niños pueden estar hasta 8 horas o incluso más en la escuela mientras los padres trabajan, es obligatorio que los padres o trabajen o estudien, dependiendo de eso el nino tiene acceso a cierta cantidad de horas en la escuela donde reciben desayuno, almuerzo, snacks y un ambiente bastante educativo.
 
