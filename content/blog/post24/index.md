@@ -34,13 +34,13 @@ Aparte de los beneficios laborales, puedes inscribirte con un gremio/sindicato, 
 
 Quiero destacar algunos asuntos desde mi punto de vista personal sobre la cultura y estilo de vida del sueco. Empezaré con la **personalidad o comportamiento**.
 
-Desde meses de nacidos, los Suecos suelen ser llevados a los Daycares/Preescolar mientras sus padres trabajan, lo cual significa que desde esa temprana edad aprenden a convivir con los demás y a ser cuidados/monitoreados por otra persona, que no son papá y mamá. Es por eso desde mi punto de vista, que ellos desarrollan una independencia del hogar desde muy temprana edad.
+Desde meses de nacidos, los suecos suelen ser llevados a los Daycares/Preescolar mientras sus padres trabajan, lo cual significa que desde esa temprana edad aprenden a convivir con los demás y a ser cuidados/monitoreados por otra persona, que no son papá y mamá. Es por eso desde mi punto de vista, que ellos desarrollan una independencia del hogar desde muy temprana edad.
 
 > Es bastante común ver preadolescentes juntarse para ir a bañar a algún lago, salir al centro comercial o a algún restaurante sin la compañía de algún adulto.
 
-Los lazos de amistad se forjan desde que son bebes con los compañeros de Daycare y esos son los lazos que duran en su mayoría para toda la vida. Es por eso que se piensa que los Suecos no son muy sociables, ya que sus amistades son aquellas que formaron siendo bebés, en la etapa universitaria es generalmente la última oportunidad que tienen de hacer amistades duraderas.
+Los lazos de amistad se forjan desde que son bebes con los compañeros de Daycare y esos son los lazos que duran en su mayoría para toda la vida. Es por eso que se piensa que los suecos no son muy sociables, ya que sus amistades son aquellas que formaron siendo bebés, en la etapa universitaria es generalmente la última oportunidad que tienen de hacer amistades duraderas.
 
-Es por eso también que los Suecos no suelen ser tan apegados/allegados con los miembros de su familia incluyendo sus padres/primos/tíos/abuelos ya que desde que son bebés se acostumbran a convivir con extraños.
+Es por eso también que los Suecos no suelen ser tan apegados/allegados con los miembros de su familia incluyendo sus padres/primos/tíos/abuelos ya que desde que se acostumbran a convivir con extraños.
 
 Ahondando aún más en el tema de la independencia, ellos están acostumbrados a tener voluntad o decisión propia y a ser respetada por parte de sus padres, ya que desde bebes aprenden a ser independientes. Es por eso común ver que se reunen con sus amigos y se van de viaje por toda Europa sin problema alguno, apoyados también por la excelente economía que poseen.
 
@@ -48,7 +48,7 @@ Otro de los beneficios de convivir con otros desde temprana edad es el compromis
 
 > Los suecos son de las personas más responsables que he conocido, cuando se trata de trabajar; trabajan.
 
-Están acostumbrados a convivir con otros y tener voz propia y ser tomados en cuenta. Lo mismo sucede en el ambiente laboral. A la mayoría no les gusta estar de balde sin nada que hacer en un trabajo.
+Están acostumbrados a convivir con otros y tener voz propia y ser tomados en cuenta. Lo mismo sucede en el ambiente laboral. A la mayoría no les gusta estar "de balde" sin nada que hacer en un trabajo.
 
 ### Alto indice de impuestos
 
@@ -62,7 +62,7 @@ IKEA hace que comprar cosas para el hogar sea bastante económico.
 
 También es económico los planes de telefonía, internet y sobre todo energía eléctrica. En cuanto a la energía eléctrica se tienen recibos mensuales de 300 - 600 coronas, una nada!.
 
-### Curiosidades suecas.
+### Curiosidades suecas
 
 Cada día que pasa confirmo aún más esto: Los suecos aman la naturaleza. En general en Suecia se encuentran hermosos paisajes naturales, las calles de las ciudades y pueblos son bonitas, con ese aire 'viejo' de las ciudades europeas, ves un negocio con una fachada vieja por fuera, pero por dentro la historia cambia.
 
