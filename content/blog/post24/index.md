@@ -14,9 +14,11 @@ Una mirada a la cultura Escandinava vista desde los ojos de un extranjero proven
 
 Suecia cuenta con uno de los mejores sistemas de Seguridad Social. Algunos de los beneficios son:
 
-**- Educación gratuita:** Desde Daycare, Preescolar hasta la Universidad es gratis. La que más me llama la atención es sistema escolar, los niños pueden estar hasta 8 horas o incluso más en la escuela mientras los padres trabajan, es obligatorio que los padres o trabajen o estudien, dependiendo de eso el niño tiene acceso a cierta cantidad de horas en la escuela donde reciben desayuno, almuerzo, snacks y un ambiente bastante educativo.
+**- Educación gratuita:** Desde Daycare, Preescolar hasta la Universidad es gratis. La que más me llama la atención es; el sistema escolar.
 
-**- Maternidad/Paternidad**: Los padres pueden darse de baja del trabajo al tener un hijo(a), comparten los días entre los padres, que puede llegar hasta aproximadamente 200 días para cada padre. Durante el tiempo de maternidad/paternidad se recibe el 80% del salario mensual por parte de la empresa. También puedes quedarte en casa por asuntos de enfermedad.
+Los niños pueden estar hasta 8 horas (o incluso más) en la escuela mientras los padres trabajan, es obligatorio que los padres trabajen, o estudien, dependiendo de eso el niño tiene acceso a cierta cantidad de horas en la escuela donde reciben; desayuno, almuerzo, snacks y un ambiente bastante educativo.
+
+**- Maternidad/Paternidad**: Los padres pueden darse de baja del trabajo al tener un hijo(a), comparten los días entre los padres (400 días), que puede llegar hasta aproximadamente 200 días para cada padre. Durante el tiempo de maternidad/paternidad se recibe el 80% del salario mensual por parte de la empresa. También puedes quedarte en casa por asuntos de enfermedad.
 
 **- Seguridad Laboral**: Los empeados contratados tienen un período de prueba de 6 meses, donde el empleador puede prescindir del empleado si así lo desea y sin tener una justificación. Una vez pasado el período de prueba te conviertes en empleado permanente y es casi imposible que la empresa te despida, es hasta cierto punto ilegal despedir al empleado.
 
@@ -38,11 +40,11 @@ Desde meses de nacidos, los suecos suelen ser llevados a los Daycares/Preescolar
 
 > Es bastante común ver preadolescentes juntarse para ir a bañar a algún lago, salir al centro comercial o a algún restaurante sin la compañía de algún adulto.
 
-Los lazos de amistad se forjan desde que son bebes con los compañeros de Daycare y esos son los lazos que duran en su mayoría para toda la vida. Es por eso que se piensa que los suecos no son muy sociables, ya que sus amistades son aquellas que formaron siendo bebés, en la etapa universitaria es generalmente la última oportunidad que tienen de hacer amistades duraderas.
+Los lazos de amistad se forjan desde que son bebes con los compañeros de Daycare y esos son los lazos que duran en su mayoría para toda la vida. Se piensa que los suecos no son muy sociables, ya que sus amistades son aquellas que formaron siendo bebés, en la etapa universitaria es generalmente la última oportunidad que tienen de hacer amistades duraderas.
 
-Es por eso también que los Suecos no suelen ser tan apegados/allegados con los miembros de su familia incluyendo sus padres/primos/tíos/abuelos ya que desde que se acostumbran a convivir con extraños.
+Debido a esa independencia los suecos no suelen ser tan apegados/allegados con los miembros de su familia incluyendo sus padres/primos/tíos/abuelos.
 
-Ahondando aún más en el tema de la independencia, ellos están acostumbrados a tener voluntad o decisión propia y a ser respetada por parte de sus padres, ya que desde bebes aprenden a ser independientes. Es por eso común ver que se reunen con sus amigos y se van de viaje por toda Europa sin problema alguno, apoyados también por la excelente economía que poseen.
+Ahondando aún más en el tema de la independencia, ellos están acostumbrados a tener voluntad o decisión propia y a ser respetada por parte de sus padres. Es común ver que se reunen con sus amigos y se van de viaje por toda Europa sin problema alguno, apoyados también por la excelente economía que poseen.
 
 Otro de los beneficios de convivir con otros desde temprana edad es el compromiso de apoyarse mutuamente en el **ambiente laboral**. A pesar de que poseen un excelente sistema de seguridad laboral y que gozan de bastantes días para pasar sin trabajar, cualquiera diría que son unos haraganes y que no trabajan, puede ser fácil juzgarlos de esas manera, pero es lo contrario en la mayoría de casos (con algunas excepciones).
 
@@ -54,7 +56,7 @@ Están acostumbrados a convivir con otros y tener voz propia y ser tomados en cu
 
 > Si bien es cierto Suecia es uno de los países en los que se paga un alto porcentaje de impuestos, aún así el poder adquisitivo de los suecos es alto.
 
-Mi opinión respecto a esto es que la mayoría de necesidades básicas como salud, educación son completamentee cubiertas por el pago de impuestos.
+Mi opinión respecto a esto es que la mayoría de necesidades básicas como salud, educación son completamente cubiertas por el pago de impuestos.
 
 Ahora que mi hijo está estudiando, cúanto ahorro significa para nosotros, más aún en caso de enfermarse. Aparte los índices de corrupción gubernamentales son bajísimos comparados con Latinoamérica. El sistema de transporte es eficiente y accesible en cuanto al precio; otro ahorro más. De hecho es más caro poseer vehículo propio por el consumo de combustible y sobre todo los costos de los parqueos y pagos por uso de carreteras.
 
@@ -66,9 +68,16 @@ También es económico los planes de telefonía, internet y sobre todo energía 
 
 Cada día que pasa confirmo aún más esto: Los suecos aman la naturaleza. En general en Suecia se encuentran hermosos paisajes naturales, las calles de las ciudades y pueblos son bonitas, con ese aire 'viejo' de las ciudades europeas, ves un negocio con una fachada vieja por fuera, pero por dentro la historia cambia.
 
-Los suecos poseen una cultura algo extraña, son muy avanzados en tecnología; pero el paisaje es viejo, son muy celosos de su privacidad; pero puedes encontrar la información de los demás online, lucen con cuerpos 'fit'; pero comen pan a morir, tienen bonitas ciudades; pero viven como pueblo.
+Los suecos poseen una cultura algo extraña:
 
-> Los suecos en su mayoría disfrutan y prefieren una salida al lago, a comer en algún restaurante y sobre todo a beber!, tenía que decirlo; son muy fans del alcohol, es el antidepresivo por excelencia.
+- Son muy avanzados en tecnología; pero el paisaje es viejo,
+- Son muy celosos de su privacidad; pero puedes encontrar la información de los demás online,
+- Lucen cuerpos 'fit'; pero comen pan a morir,
+- Tienen bonitas ciudades; pero viven como pueblo.
+
+> Los suecos en su mayoría disfrutan y prefieren una salida al lago, a comer en algún restaurante y sobre todo a beber!.
+
+Tenía que decirlo; son muy fans del alcohol, es el antidepresivo por excelencia.
 
 Dificilmente verás dos extraños platicando en público, en el tren, en el bus. Prefieren usar sus audífonos, leer un libro, que iniciar una plática con un extraño. Les encanta tener su espacio personal y respetan el de los demás.
 
@@ -87,5 +96,15 @@ Pero a pesar de eso, conocen y mucho sobre la cultura norteamericana, la ropa, l
 Suecia no es para todos; el clima, la independencia, lo poco sociable, las pocas actividades al aire libre (sobre todo por el clima). Cuesta adaptarse a la cultura sueca, a medida que el tiempo pasa me adopto poco a poco, pero lleva tiempo, aún hoy no me siento totalmente integrado.
 
 El idioma puede ser una gran barrera también, a pesar de que casi todos hablan perfecto inglés. Si hablas sueco puedes trabajar de lo que te plazca, el problema es ese, toca aprenderlo.
+
+Para nosotros el poder mudarnos a Suecia ha sido un proceso bastante corto para ser sinceros, desde el día en el que aplicamos con mi esposa (digo, porque ella siempre estuvo de acuerdo) para un trabajo, pero me ha tomado muchos años de estudio y preparación en mi carrera como programador para poder ser considerado por parte de las empresas suecas y así poder tener un perfil atractivo. Aparte de mi experiencia como programador, me ha tocado hacer el esfuerzo en estudiar el inglés, sin el cual difícilmente podría haberme mudado al norte del mundo.
+
+Mi proceso ha sido 'fácil', ya que nunca lo es, debido a la carrera que elegí en tecnología. Me dicen que se ocupan enfermeros(as), maestros(as).
+
+El reto?, el idioma. El sueco considero es importante para desarrollar la mayoría de profesiones, con el inglés te comunicas, con el sueco te integras de lleno. Este mes de Septiembre inicio mis clases de sueco.
+
+Salir de tu país de origen en búsqueda de pastos más verdes nunca es fácil, ni tampoco es asunto de suerte o del azar. Es tu determinación, deseo, convicción, adaptación, espíritu indomable lo que te impulsa a hacer nuevas amistades, alejarte de tus seres queridos en búsqueda de un futuro mejor. Donde por Ley de la Vida luchas, te esfuerzas, trabajas duro para progresar, que es lo normal en países serios, ordenados y con una sana economía.
+
+Mis compañeros suecos destacan éso; el esfuerzo, la preparación y la valentía que hemos tenido para aventurarnos y mudarnos a Suecia, dejando todo atrás. Nos alientan a integrarnos a su comunidad y a disfrutar los beneficios que dicha sociedad posee sin temor alguno.
 
 Hasta la próxima!
