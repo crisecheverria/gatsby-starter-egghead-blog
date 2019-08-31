@@ -103,7 +103,7 @@ Mi proceso ha sido 'fácil', ya que nunca lo es, debido a la carrera que elegí 
 
 El reto?, el idioma. El sueco considero es importante para desarrollar la mayoría de profesiones, con el inglés te comunicas, con el sueco te integras de lleno. Este mes de Septiembre inicio mis clases de sueco.
 
-Salir de tu país de origen en búsqueda de pastos más verdes nunca es fácil, ni tampoco es asunto de suerte o del azar. Es tu determinación, deseo, convicción, adaptación, espíritu indomable lo que te impulsa a hacer nuevas amistades, alejarte de tus seres queridos en búsqueda de un futuro mejor. Donde por Ley de la Vida luchas, te esfuerzas, trabajas duro para progresar, que es lo normal en países serios, ordenados y con una sana economía.
+Salir de tu país de origen en búsqueda de pastos más verdes nunca es fácil, ni tampoco es asunto de suerte o del azar. Es tu determinación, deseo, convicción, adaptación, espíritu indomable lo que te impulsa a hacer nuevas amistades, alejarte de tus seres queridos en búsqueda de un futuro mejor. Donde por Ley de la Vida; luchas, te esfuerzas, trabajas duro para progresar. **Que es lo normal en países serios, ordenados y con una sana economía.**
 
 Mis compañeros suecos destacan éso; el esfuerzo, la preparación y la valentía que hemos tenido para aventurarnos y mudarnos a Suecia, dejando todo atrás. Nos alientan a integrarnos a su comunidad y a disfrutar los beneficios que dicha sociedad posee sin temor alguno.
 
