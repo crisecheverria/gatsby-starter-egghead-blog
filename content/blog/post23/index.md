@@ -12,6 +12,10 @@ Este Post es la Parte 2 del curso de React Redux. En esta ocasión veremos cómo
 
 Si deseas seguir la Parte1 del tutorial sigue el siguiente link [Parte1: Redux](https://cristianecheverria.com/react-redux-tutorial-parte-1)
 
+### Código Fuente
+
+Si deseas ver el código fuente descarga el [repositorio de GitHub](https://github.com/crisecheverria/react-redux-tutorial)
+
 ### Instalar React Redux
 
 ```js

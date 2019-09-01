@@ -14,6 +14,10 @@ En este Post quiero tocar el tema de Redux, seguido de eso lo combinaremos con R
 
 Puedes encontrar esta publicación en mi canal de [Youtube](https://www.youtube.com/watch?v=-mq1_zpT5lE&list=PLAN6wHA0cA_fTmMAObPAH5SSKZ61zBa04).
 
+### Código Fuente
+
+Si deseas ver el código fuente descarga el [repositorio de GitHub](https://github.com/crisecheverria/react-redux-tutorial)
+
 ### Serie React Redux
 
 Ésta publicación es la primera parte de una serie sobre React Redux. Puedes encontrar la [Parte2: React](https://cristianecheverria.com/react-redux-tutorial-parte-2)
