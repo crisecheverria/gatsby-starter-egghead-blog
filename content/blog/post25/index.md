@@ -1,22 +1,19 @@
 ---
-slug: react-redux-tutorial-parte-2
-date: 2019-08-24
-title: 'React Redux - Parte 2: React'
-description: 'Este Post es la Parte 2 del curso de React Redux. En esta ocasión veremos cómo conectar nuestra aplicación de React con Redux Store y así poder recibir el State y poder modificar dicho state ejecutando funciones. Para ello usaremos la librería react-redux.'
+slug: react-redux-tutorial-parte-3
+date: 2019-09-01
+title: 'React Redux - Parte 3: Formularios con Redux'
+description: 'Este Post es la Parte 3 del curso de React Redux. En esta ocasión veremos cómo crear un formulario para poder agregar datos usando Redux. Veremos cómo se crean Formularios Controlados con React.'
 published: true
 author: 'Cristian Echeverría'
 banner: './banner.jpg'
 ---
 
-Este Post es la Parte 2 del curso de React Redux. En esta ocasión veremos cómo conectar nuestra aplicación de React con Redux Store y así poder recibir el State y poder modificar dicho state ejecutando funciones. Para ello usaremos la librería react-redux.
+Este Post es la Parte 3 del curso de React Redux. En esta ocasión veremos cómo crear un formulario para poder agregar datos usando Redux. Veremos cómo se crean Formularios Controlados con React.
 
-Si deseas seguir la Parte1 del tutorial sigue el siguiente link:
+Si deseas seguir las publicaciones anteriores sigue los siguientes links:
 
 - [Parte1: Redux](https://cristianecheverria.com/react-redux-tutorial-parte-1)
-
-### Video en Youtube
-
-Puedes encontrar esta publicación en mi canal de [Youtube](https://www.youtube.com/watch?v=S_H6AbZW90o&feature=youtu.be)
+- [Parte2: React](https://cristianecheverria.com/react-redux-tutorial-parte-2)
 
 ### Código Fuente
 
