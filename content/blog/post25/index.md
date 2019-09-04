@@ -3,7 +3,7 @@ slug: react-redux-tutorial-parte-3
 date: 2019-09-01
 title: 'React Redux - Parte 3: Formularios con Redux'
 description: 'Este Post es la Parte 3 del curso de React Redux. En esta ocasión veremos cómo crear un formulario para poder agregar datos usando Redux. Veremos cómo se crean Formularios Controlados con React.'
-published: true
+published: false
 author: 'Cristian Echeverría'
 banner: './banner.jpg'
 ---
