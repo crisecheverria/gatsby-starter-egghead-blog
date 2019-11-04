@@ -240,7 +240,7 @@ Para poder probar que nuestras función trabaja de manera esperada podemos copia
 
 ### Conclusión
 
-El uso de sitios como Netlify que nos permiten publicar sitios web dinámicos y a la vez nos permite poder agregar funcionalidad de terceros para poder ser usados vía Lambda Functions, permite que el sitio sea dinámico. De allí viene el término JAMstack en el cual usamos diversos microservicios como autenticación, búsquedas y funciones serverless simplificando y abaratando los costes de administrar nuestros proyectos web.
+El uso de sitios como Netlify que nos permiten publicar sitios web estáticos y a la vez nos permite poder agregar funcionalidad de terceros para poder ser usados vía Lambda Functions, permite que el sitio sea dinámico. De allí viene el término JAMstack en el cual usamos diversos microservicios como autenticación, búsquedas y funciones serverless simplificando y abaratando los costes de administrar nuestros proyectos web.
 
 ![Joke](there-is-no-cloud.png)
 
