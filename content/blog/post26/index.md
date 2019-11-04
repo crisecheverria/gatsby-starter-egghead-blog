@@ -1,6 +1,6 @@
 ---
 slug: netlify-serverless-functions-instagram-feed
-date: 2019-09-01
+date: 2019-11-04
 title: 'Netlify: Serverless Functions, Instagram Feed'
 description: 'He estado trabajando en un proyecto para un familiar, dandole vida al sitio web que la diseñadora me entregó y he probado algunas herramientas nuevas en dicho proceso. El objetivo primordial es abaratar costos aprovechando al máximo los recursos que existen para sitios web sencillos.'
 published: true
